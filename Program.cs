@@ -14,7 +14,7 @@ var app = builder.Build();
 //Ya da genel yazımın daha uzun şekli olarak aşağıdaki gibi yazılabilir
 app.MapControllerRoute(
     name:"default",
-    pattern: "{controller=Meeting}/{action=Index}/{id?}"
+    pattern: "{controller=Home}/{action=Index}/{id?}"
 );
 
 
