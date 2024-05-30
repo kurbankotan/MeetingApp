@@ -2,6 +2,9 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
 var app = builder.Build();
 
+app.UseStaticFiles(); //wwwroot altındaki dosyaların erişime açılması için
+app.UseRouting();     // Routing için bu middleware'in eklenmesi lazım
+
 //Böyle tek tek tanımlanabilir
 // app.MapGet("/", () => "Hello World!");
 // app.MapGet("/abc", () => "Deneme");
