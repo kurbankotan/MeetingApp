@@ -1,12 +1,85 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\PC\\OneDrive - duzce.edu.tr\\Programlama \u00C7al\u0131\u015Fmalar\u0131\\Aspnet Core\\MeetingApp\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63B19B8D-1554-4FB0-9F8B-41E058A43DED}|MeetingApp.csproj|c:\\users\\pc\\onedrive - duzce.edu.tr\\programlama \u00E7al\u0131\u015Fmalar\u0131\\aspnet core\\meetingapp\\views\\meeting\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63B19B8D-1554-4FB0-9F8B-41E058A43DED}|MeetingApp.csproj|solutionrelative:views\\meeting\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63B19B8D-1554-4FB0-9F8B-41E058A43DED}|MeetingApp.csproj|c:\\users\\pc\\onedrive - duzce.edu.tr\\programlama \u00E7al\u0131\u015Fmalar\u0131\\aspnet core\\meetingapp\\views\\meeting\\apply.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63B19B8D-1554-4FB0-9F8B-41E058A43DED}|MeetingApp.csproj|solutionrelative:views\\meeting\\apply.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63B19B8D-1554-4FB0-9F8B-41E058A43DED}|MeetingApp.csproj|c:\\users\\pc\\onedrive - duzce.edu.tr\\programlama \u00E7al\u0131\u015Fmalar\u0131\\aspnet core\\meetingapp\\views\\meeting\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63B19B8D-1554-4FB0-9F8B-41E058A43DED}|MeetingApp.csproj|solutionrelative:views\\meeting\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63B19B8D-1554-4FB0-9F8B-41E058A43DED}|MeetingApp.csproj|c:\\users\\pc\\onedrive - duzce.edu.tr\\programlama \u00E7al\u0131\u015Fmalar\u0131\\aspnet core\\meetingapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63B19B8D-1554-4FB0-9F8B-41E058A43DED}|MeetingApp.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive - duzce.edu.tr\\Programlama \u00C7al\u0131\u015Fmalar\u0131\\Aspnet Core\\MeetingApp\\Views\\Meeting\\List.cshtml",
+              "RelativeDocumentMoniker": "Views\\Meeting\\List.cshtml",
+              "ToolTip": "C:\\Users\\PC\\OneDrive - duzce.edu.tr\\Programlama \u00C7al\u0131\u015Fmalar\u0131\\Aspnet Core\\MeetingApp\\Views\\Meeting\\List.cshtml",
+              "RelativeToolTip": "Views\\Meeting\\List.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T09:26:32.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive - duzce.edu.tr\\Programlama \u00C7al\u0131\u015Fmalar\u0131\\Aspnet Core\\MeetingApp\\Views\\Meeting\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Meeting\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PC\\OneDrive - duzce.edu.tr\\Programlama \u00C7al\u0131\u015Fmalar\u0131\\Aspnet Core\\MeetingApp\\Views\\Meeting\\Index.cshtml",
+              "RelativeToolTip": "Views\\Meeting\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T09:26:27.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Apply.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive - duzce.edu.tr\\Programlama \u00C7al\u0131\u015Fmalar\u0131\\Aspnet Core\\MeetingApp\\Views\\Meeting\\Apply.cshtml",
+              "RelativeDocumentMoniker": "Views\\Meeting\\Apply.cshtml",
+              "ToolTip": "C:\\Users\\PC\\OneDrive - duzce.edu.tr\\Programlama \u00C7al\u0131\u015Fmalar\u0131\\Aspnet Core\\MeetingApp\\Views\\Meeting\\Apply.cshtml",
+              "RelativeToolTip": "Views\\Meeting\\Apply.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T09:26:23.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive - duzce.edu.tr\\Programlama \u00C7al\u0131\u015Fmalar\u0131\\Aspnet Core\\MeetingApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PC\\OneDrive - duzce.edu.tr\\Programlama \u00C7al\u0131\u015Fmalar\u0131\\Aspnet Core\\MeetingApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T09:25:21.92Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
