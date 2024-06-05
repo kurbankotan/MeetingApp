@@ -1,3 +1,5 @@
+@model List<UserInfo>
+
 @{
     ViewBag.Title = "Toplantı Katılım Listesi";
 }
@@ -17,22 +19,21 @@
 
             <tbody>
 
-                <tr>
-                    <td>Kurban</td>
-                    <td>Evet</td>
-                    <td>
-                        <a class="btn btn-sm btn-primary" href="#">Detay</a>
-                    </td>
-                </tr>
+            
+                @foreach(var user in Model)
+                {
+                    var durum = user.WillAttend == true? "Evet" : "Hayır";
+                    var className = user.WillAttend == true ? "table-success":"table-danger";
 
+                    <tr class="@className">
+                        <td>@user.Name</td>
+                        <td>@durum</td>
+                        <td>
+                            <a class="btn btn-sm btn-primary" href="#">Detay</a>
+                        </td>
+                    </tr>
+                }
 
-                <tr>
-                    <td>Vefa</td>
-                    <td>Evet</td>
-                    <td>
-                        <a class="btn btn-sm btn-primary" href="#">Detay</a>
-                    </td>
-                </tr>
 
             </tbody>
 
