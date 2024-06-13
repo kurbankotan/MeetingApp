@@ -33,6 +33,15 @@ namespace MeetingApp.Controllers
         }
 
 
+        //meeting/details/1
+        //meeting/details/2
+        //meeting/details/3
+
+        [HttpGet]
+        public IActionResult Details(int id)
+        {
+            return View(Repository.GetById(id));
+        }
 
     }
 }
