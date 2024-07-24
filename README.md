@@ -1,1 +1,1 @@
-Toplantı katılma ve listeleme Asp.net Core projesi
+Toplantılara katılma ve toplantıları listeleyen Asp.net Core projesi (SQL'siz)
